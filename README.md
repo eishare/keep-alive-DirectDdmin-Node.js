@@ -1,6 +1,6 @@
 # Vless ws tls节点 DirectAdmin保活说明
 
-* 1.Cloudflare新建workers，使用hello world模板，替换为vless-alive代码
+* 1.Cloudflare新建workers，使用hello world模板，替换为本项目vless-alive.js代码
 
 * 2.编辑第四行const targetUrl = "https://your-domain.com/uuid";
   
